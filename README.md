@@ -61,7 +61,7 @@ cd Redesaign-Web-Landing-Page-Lamonte
 ## 👨‍💻 Author
 
 **Rizki Esa Fadillah**  
-Frontend & Mobile Developer  
+Web & Mobile Developer  
 
 - 🌐 GitHub  : https://github.com/Rizki-Esa  
 - 💼 LinkedIn: https://www.linkedin.com/in/rizki-esa-fadillah  
