@@ -61,7 +61,13 @@ cd Redesaign-Web-Landing-Page-Lamonte
 ## 👨‍💻 Author
 
 **Rizki Esa Fadillah**  
-- GitHub: https://github.com/Rizki-Esa  
+Frontend & Mobile Developer  
+
+- 🌐 GitHub  : https://github.com/Rizki-Esa  
+- 💼 LinkedIn: https://www.linkedin.com/in/rizki-esa-fadillah  
+- 📧 Email   : rizkiiesafadillah03@gmail.com  
 
 ---
+
+⭐ Jika project ini bermanfaat, jangan ragu untuk memberikan star pada repository ini.
 
